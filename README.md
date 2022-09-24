@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">A passionate statistician/mathematician from Panama</h3>
+<h3 align="center">A passionate statistician/mathematician from Panama currently looking for employment</h3>
 
 - 🔭 I’m currently working on **Automated Equity Trading using Deep Reinforcement Learning**
 
