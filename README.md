@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marcos.jaen@mail.utoronto.ca**
 
-- 📄 Know about my experiences [https://github.com/jaen15marcos/Resume](https://github.com/jaen15marcos/Resume)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jaencort/)
 
 - ⚡ Fun fact **I play the accordion**
 
