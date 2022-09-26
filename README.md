@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automated Equity Trading using Deep Reinforcement Learning**
 
-- 🌱 I’m currently learning more about **Quantum Field Theory**
+- 🌱 I’m currently learning more about **Deep Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaen15marcos?tab=repositories](https://github.com/jaen15marcos?tab=repositories)
 
