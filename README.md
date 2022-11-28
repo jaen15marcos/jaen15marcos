@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A passionate statistician/mathematician from Panama currently looking for employment</h3>
 
-- 🔭 I’m currently working on **VaR models**
+- 🔭 I’m currently working on **Fast Fourier Transform (FFT) Signal Processing for Correlated Signals**
 
 - 🌱 I’m currently learning more about **Deep Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaen15marcos?tab=repositories](https://github.com/jaen15marcos?tab=repositories)
 
-- 📫 How to reach me **marcos.jaen@mail.utoronto.ca**
+- 📫 How to reach me **jaenmarcos15@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jaencort/)
 
