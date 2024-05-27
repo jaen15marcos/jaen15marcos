@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Fast Fourier Transform (FFT) Signal Processing for Correlated Signals**
 
-- 🌱 I’m currently learning more about **Deep Reinforcement Learning**
+- 🌱 I’m currently learning more about **Cointegration**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaen15marcos?tab=repositories](https://github.com/jaen15marcos?tab=repositories)
 
@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaencort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaencort" height="30" width="40" /></a>
-<a href="https://instagram.com/marcos15jaen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaen15marcps" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
